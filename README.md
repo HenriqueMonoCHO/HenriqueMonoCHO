@@ -45,11 +45,7 @@
     </main>
     <aside class="navegacao-site">
         <h1>🟪 Henrique de Oliveira Ritter 🟪</h1>
-        
-    <footer class="rodape-pagina">
-        &copy; Henrique de Oliveira Ritter
-    </footer>
-    <div>
+  
 <a href="https://github.com/HenriqueMonoCHO">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueMonoCHO&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=HenriqueMonoCHO&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
