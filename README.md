@@ -45,33 +45,7 @@
     </main>
     <aside class="navegacao-site">
         <h1>🟪 Henrique de Oliveira Ritter 🟪</h1>
-        <nav>
-            <ul>
-                <li><a href="index.html">Home</a></li>
-                <li><a href="portfolio.html">Portfolio</a></li>
-                <li><a href="bio.html">Sobre mim</a></li>
-                <li><a href="blog.html">Blog</a></li>
-                <li><a href="contato.html">Contato</a></li>
-            </ul>
-        </nav>
-        <ul class="icones-redes-sociais">
-            <li>
-                <a href="https://github.com/HenriqueMonoCHO" class="github" data-tooltip="Veja meus projetos opensource">
-                    Github
-                </a>
-            </li>
-            <li>
-                <a href="https://twitter.com/joaodasilva" class="twitter" data-tooltip="Siga-me no Twitter">
-                    Twitter
-                </a>
-            </li>
-            <li>
-                <a href="https://br.linkedin.com/pub/joão-da-silva/32/4/508" class="linkedin" data-tooltip="Veja meu currículo">
-                    LinkedIn
-                </a>
-            </li>
-        </ul>
-    </aside>
+        
     <footer class="rodape-pagina">
         &copy; Henrique de Oliveira Ritter
     </footer>
