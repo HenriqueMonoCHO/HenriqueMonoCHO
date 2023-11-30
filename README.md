@@ -2,7 +2,7 @@
 <html>
 <head>
     <meta charset="utf-8">
-    Bruno Carletto Adamczyk
+    Henrique de Oliveira Ritter
     <link rel="icon" href="imagens/favicon.png">
     <link rel="stylesheet" href="css/reset.css">
     <link rel="stylesheet" href="css/site.css">
@@ -70,7 +70,7 @@
         </ul>
     </aside>
     <footer class="rodape-pagina">
-        &copy; Bruno Carletto Adamczyk
+        &copy; Henrique de Oliveira Ritter
     </footer>
     <div>
 <a href="https://github.com/BruDu1545">
