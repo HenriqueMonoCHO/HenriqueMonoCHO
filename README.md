@@ -12,7 +12,7 @@
 </head>
 <body>
     <main>
-        <h1 class="titulo-principal">Sobre mim</h1>
+        <h1 class="titulo-principal">🟪 Sobre mim 🟪</h1>
         <div class="container">
             <p>🟣 Moro no Parana, MCR.</p>
             <p>🟣 Trabalho na Ritter Ourivesaria</p>
