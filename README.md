@@ -14,8 +14,8 @@
     <main>
         <h1 class="titulo-principal">Sobre mim</h1>
         <div class="container">
-            <p>Moro no Parana.</p>
-            <p>Trabalho no Martin Luther, mas estudo, HTML5, CSS e JavaScript. Mas estudo no Colegio Estadual Eron Domingues no TDS (Tecnico em desinvolvimento de sitemas).</p>
+            <p>Moro no Parana, MCR.</p>
+            <p>Trabalho na Ritter Ourivesaria, estudo no Eron Domingues, na turma T.D.S ( Técnico em Desinvolvimento de Sistemas ), e sou main cho'gath.</p>
            <h2 class="subtitulo-texto">Habilidades</h2>
             <table class="habilidades">
                 <thead>
@@ -41,7 +41,7 @@
         </div>
     </main>
     <aside class="navegacao-site">
-        <h1>Bruno Carletto Adamczyk</h1>
+        <h1>Henrique de Oliveira Ritter</h1>
         <nav>
             <ul>
                 <li><a href="index.html">Home</a></li>
