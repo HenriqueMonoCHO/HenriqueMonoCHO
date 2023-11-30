@@ -56,7 +56,7 @@
         </nav>
         <ul class="icones-redes-sociais">
             <li>
-                <a href="https://github.com/joaodasilva" class="github" data-tooltip="Veja meus projetos opensource">
+                <a href="https://github.com/HenriqueMonoCHO" class="github" data-tooltip="Veja meus projetos opensource">
                     Github
                 </a>
             </li>
@@ -76,9 +76,9 @@
         &copy; Henrique de Oliveira Ritter
     </footer>
     <div>
-<a href="https://github.com/BruDu1545">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BruDu1545&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=BruDu1545&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<a href="https://github.com/HenriqueMonoCHO">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueMonoCHO&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=HenriqueMonoCHO&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 </body>
 </html>
