@@ -14,11 +14,11 @@
     <main>
         <h1 class="titulo-principal">🟪 Sobre mim 🟪</h1>
         <div class="container">
-            <p>🟣 Moro no Parana, MCR.</p>
+            <p>🟣 Moro no Parana.</p>
             <p>🟣 Trabalho na Ritter Ourivesaria</p>
-<p>🟣 estudo no Eron Domingues</p>
-<p>🟣 turma T.D.S ( Técnico em Desinvolvimento de Sistemas )</p>
-<p>🟣 sou main cho'gath.</p>
+<p>🟣 Estudo no Eron Domingues</p>
+<p>🟣 Turma T.D.S ( Técnico em Desinvolvimento de Sistemas )</p>
+<p>🟣 Sou main cho'gath.</p>
            <h2 class="subtitulo-texto">🟪 Habilidades 🟪</h2>
             <table class="habilidades">
                 <thead>
