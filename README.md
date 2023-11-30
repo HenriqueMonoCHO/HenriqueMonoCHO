@@ -15,10 +15,10 @@
         <h1 class="titulo-principal">Sobre mim</h1>
         <div class="container">
             <p>🟣 Moro no Parana, MCR.</p>
-            <p>🟣 Trabalho na Ritter Ourivesaria
-🟣 estudo no Eron Domingues
-🟣 turma T.D.S ( Técnico em Desinvolvimento de Sistemas )
-🟣 sou main cho'gath.</p>
+            <p>🟣 Trabalho na Ritter Ourivesaria</p>
+<p>🟣 estudo no Eron Domingues</p>
+<p>🟣 turma T.D.S ( Técnico em Desinvolvimento de Sistemas )</p>
+<p>🟣 sou main cho'gath.</p>
            <h2 class="subtitulo-texto">Habilidades</h2>
             <table class="habilidades">
                 <thead>
